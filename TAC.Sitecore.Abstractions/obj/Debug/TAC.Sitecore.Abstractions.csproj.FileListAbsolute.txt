@@ -1,0 +1,7 @@
+C:\Users\mbhojwani\Documents\Visual Studio 2017\Projects\TAC\TAC.Sitecore.Abstractions\bin\Debug\TAC.Sitecore.Abstractions.dll
+C:\Users\mbhojwani\Documents\Visual Studio 2017\Projects\TAC\TAC.Sitecore.Abstractions\bin\Debug\TAC.Sitecore.Abstractions.pdb
+C:\Users\mbhojwani\Documents\Visual Studio 2017\Projects\TAC\TAC.Sitecore.Abstractions\bin\Debug\Sitecore.Kernel.dll
+C:\Users\mbhojwani\Documents\Visual Studio 2017\Projects\TAC\TAC.Sitecore.Abstractions\bin\Debug\Sitecore.Mvc.dll
+C:\Users\mbhojwani\Documents\Visual Studio 2017\Projects\TAC\TAC.Sitecore.Abstractions\obj\Debug\TAC.Sitecore.Abstractions.dll
+C:\Users\mbhojwani\Documents\Visual Studio 2017\Projects\TAC\TAC.Sitecore.Abstractions\obj\Debug\TAC.Sitecore.Abstractions.pdb
+C:\Users\mbhojwani\documents\visual studio 2017\Projects\TAC\TAC.Sitecore.Abstractions\obj\Debug\TAC.Sitecore.Abstractions.csprojResolveAssemblyReference.cache

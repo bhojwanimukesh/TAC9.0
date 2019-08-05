@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemIconCache>
+  <Item ItemPath="/sitecore/templates" ItemIcon="/temp/IconCache/Applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/TAC" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Base" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Content" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Content Page" ItemIcon="/temp/IconCache/office/16x16/document_text.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Event Details" ItemIcon="/temp/IconCache/office/32x32/pin.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Events List" ItemIcon="/temp/IconCache/office/16x16/history2.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Events Section" ItemIcon="/temp/IconCache/office/16x16/window_time.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Home Page" ItemIcon="/temp/IconCache/office/16x16/home.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Rendering Parameters" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Base/_Base Content" ItemIcon="/temp/IconCache/Applications/32x32/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Base/_Base Content Body" ItemIcon="/temp/IconCache/Applications/32x32/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Base/_Base Heading Decoration" ItemIcon="/temp/IconCache/Applications/32x32/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Base/_Base Meta Information" ItemIcon="/temp/IconCache/Applications/32x32/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Base/_Base Navigation" ItemIcon="/temp/IconCache/Applications/32x32/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Content/Bootstrap Backgournd Folder" ItemIcon="/temp/IconCache/office/16x16/painters_palette_empty.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Content/Bootstrap Background" ItemIcon="/temp/IconCache/office/16x16/painters_palette.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Content/Feature Event" ItemIcon="/temp/iconcache/applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Content/Feature Event Folder" ItemIcon="/temp/iconcache/applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Content Page/__Standard Values" ItemIcon="/temp/iconcache/office/16x16/document_text.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Event Details/Content" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Event Details/__Standard Values" ItemIcon="/temp/iconcache/office/32x32/pin.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Event Details/Details" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Events List/t" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Rendering Parameters/Bootstrap Background Color" ItemIcon="/temp/IconCache/Applications/32x32/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Rendering Parameters/FeatureRow Properties" ItemIcon="/temp/IconCache/Applications/32x32/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Base/_Base Content/Content" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Base/_Base Content/__Standard Values" ItemIcon="/temp/iconcache/applications/32x32/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Base/_Base Content Body/Content" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Base/_Base Heading Decoration/Decoration" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Base/_Base Meta Information/Meta" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Base/_Base Meta Information/__Standard Values" ItemIcon="/temp/iconcache/applications/32x32/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Base/_Base Meta Information/Robots" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Base/_Base Navigation/Navigation" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Event Details/Content/Highlights" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Event Details/Details/StartDate" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Event Details/Details/Duration" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Events List/t/link" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Rendering Parameters/Bootstrap Background Color/Background Details" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Rendering Parameters/FeatureRow Properties/Configuration" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Base/_Base Content/Content/ContentHeading" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Base/_Base Content/Content/ContentIntro" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Base/_Base Content Body/Content/ContentBody" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Base/_Base Heading Decoration/Decoration/DecorationBanner" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Base/_Base Meta Information/Meta/MetaDescription" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Base/_Base Meta Information/Robots/RobotsFollow" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Base/_Base Meta Information/Meta/MetaTitle" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Base/_Base Meta Information/Robots/RobotsIndex" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Base/_Base Navigation/Navigation/ExcludeFromNavigation" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Content/Bootstrap Backgournd Folder/__Standard Values" ItemIcon="/temp/iconcache/office/16x16/painters_palette_empty.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Content/Feature Event Folder/__Standard Values" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Rendering Parameters/Bootstrap Background Color/__Standard Values" ItemIcon="/temp/iconcache/applications/32x32/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Rendering Parameters/Bootstrap Background Color/Background Details/CssClass" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Rendering Parameters/FeatureRow Properties/__Standard Values" ItemIcon="/temp/iconcache/applications/32x32/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Rendering Parameters/FeatureRow Properties/Configuration/ph_feature_spot_count" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Event Details/Content/EventImage" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Event Details/Details/Difficulty" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Event Details/References" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Event Details/References/RelatedEvents" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Events List/__Standard Values" ItemIcon="/temp/iconcache/office/16x16/history2.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Events List/t/rte" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Events Section/__Standard Values" ItemIcon="/temp/iconcache/office/16x16/window_time.png" />
+  <Item ItemPath="/sitecore/templates/TAC/Events/Home Page/__Standard Values" ItemIcon="/temp/iconcache/office/16x16/home.png" />
+</ItemIconCache>

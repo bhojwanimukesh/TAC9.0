@@ -1,0 +1,61 @@
+----item----
+version: 1
+id: {6BFF04F2-6894-4AD7-A997-D4C48D5D099B}
+database: master
+path: /sitecore/templates/TAC/Events/Content Page/__Standard Values
+parent: {5AD3505E-E901-4C99-9803-189F1FF8C9DA}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {5AD3505E-E901-4C99-9803-189F1FF8C9DA}
+templatekey: Content Page
+created: 20190719T114554Z
+
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 38
+
+{5AD3505E-E901-4C99-9803-189F1FF8C9DA}
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 105
+
+<r>
+  <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{1CBEEDD5-CD61-4145-A283-3249287C75DF}" />
+</r>
+----version----
+language: en
+version: 1
+revision: 84ad0a35-911b-4864-b951-2611271207fe
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190719T114554Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+84ad0a35-911b-4864-b951-2611271207fe
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190722T074508Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

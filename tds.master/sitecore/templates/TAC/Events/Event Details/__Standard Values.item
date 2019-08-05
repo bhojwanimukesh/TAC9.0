@@ -1,0 +1,83 @@
+----item----
+version: 1
+id: {974A16F4-66BD-47C9-A076-64F3704B278A}
+database: master
+path: /sitecore/templates/TAC/Events/Event Details/__Standard Values
+parent: {43517E21-34EE-4D3B-B737-B6C578290410}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {43517E21-34EE-4D3B-B737-B6C578290410}
+templatekey: Event Details
+created: 20190719T113257Z
+
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 913
+
+<r>
+  <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{1CBEEDD5-CD61-4145-A283-3249287C75DF}">
+    <r id="{12F642F7-7F54-43FA-965C-14B522790ACE}" ph="main" uid="{CA6069E8-041F-4315-9434-04C15E9F1006}" />
+    <r id="{15BF9A4A-1301-474F-B288-8E3E6A079DDE}" ph="PageSide" uid="{57169302-BE2D-44EC-BBE2-9B282C149FB1}" />
+    <r id="{8E2145D9-1CBC-4AFD-A912-0E6BFC620BEC}" ph="pageHeader" uid="{D3A0686C-4971-4A68-AE78-03B33BEE5914}" />
+    <r id="{8419CEEC-6622-43C2-B07A-EF3CA1FFCBFC}" ph="PageSide" uid="{8DC36F90-E63F-4F93-907B-043AEE1017D4}" />
+    <r id="{DCA5DAC6-8655-441C-8443-F31299EFDA78}" ph="PageSide" uid="{D04F0C0C-177F-4026-A313-E6BBDE30ACF0}" />
+    <r id="{54294528-8E00-4F3A-B29D-A10FA4436286}" ph="PageContent" uid="{B4B2E807-744B-468F-875E-E1E7A1BEC038}" />
+    <r id="{F9EFCEF8-E342-469C-A5E0-58779065AF85}" ph="PageContent" uid="{FDCA1909-8305-4CDF-B7D3-23328C532B22}" />
+  </d>
+</r>
+----version----
+language: en
+version: 1
+revision: 72792262-f089-4c17-8bf2-bf23311b94fa
+
+----field----
+field: {22278473-E0D2-43E9-A31D-6560501F6DA1}
+name: Highlights
+key: highlights
+content-length: 29
+
+List event highlights here...
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190719T113257Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+72792262-f089-4c17-8bf2-bf23311b94fa
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190725T133223Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

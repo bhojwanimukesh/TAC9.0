@@ -1,0 +1,63 @@
+----item----
+version: 1
+id: {0D03AF57-C766-4BD9-8C07-DD1017A7D955}
+database: master
+path: /sitecore/templates/TAC/Events/Home Page/__Standard Values
+parent: {02E0749D-4069-4F6B-80D1-24A63159B1F3}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {02E0749D-4069-4F6B-80D1-24A63159B1F3}
+templatekey: Home Page
+created: 20190719T114216Z
+
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 38
+
+{5AD3505E-E901-4C99-9803-189F1FF8C9DA}
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 221
+
+<r>
+  <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{1CBEEDD5-CD61-4145-A283-3249287C75DF}">
+    <r id="{D8763ABC-BF29-4EE8-8058-456626ADD111}" ph="main" uid="{2B2258FE-7387-401F-BC30-7AD6274A1DD4}" />
+  </d>
+</r>
+----version----
+language: en
+version: 1
+revision: db49c85d-9c2b-4942-b637-e4811f219ad6
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190719T114216Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+db49c85d-9c2b-4942-b637-e4811f219ad6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190722T144831Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

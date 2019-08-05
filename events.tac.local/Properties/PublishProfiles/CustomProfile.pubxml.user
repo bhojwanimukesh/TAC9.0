@@ -1,0 +1,523 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\sc9.sc</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Config/Include/TAC/Events/DefaultEventIndexConfiguration.config">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Config/Include/TAC/Events/defaultEventsIndexConfiguration.config">
+      <publishTime>07/29/2019 17:47:20</publishTime>
+    </File>
+    <File Include="App_Config/Include/TAC/Events/defaultEventsIndexConfiguration1.config">
+      <publishTime>07/29/2019 17:25:13</publishTime>
+    </File>
+    <File Include="App_Config/Include/TAC/Events/events.site.config">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="App_Config/Include/TAC/Events/Solr.Events.Master.Index.config">
+      <publishTime>07/29/2019 14:58:08</publishTime>
+    </File>
+    <File Include="App_Config/Include/TAC/Events/Solr.Events.Web.Index.config">
+      <publishTime>07/29/2019 14:58:19</publishTime>
+    </File>
+    <File Include="bin/events.tac.local.dll">
+      <publishTime>07/29/2019 18:24:34</publishTime>
+    </File>
+    <File Include="bin/events.tac.local.pdb">
+      <publishTime>07/29/2019 18:24:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>12/13/2016 03:10:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>01/05/2012 11:08:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>01/28/2015 04:02:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>01/28/2015 04:02:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/TAC.Sitecore.Abstractions.dll">
+      <publishTime>07/29/2019 18:23:12</publishTime>
+    </File>
+    <File Include="bin/TAC.Sitecore.Abstractions.pdb">
+      <publishTime>07/29/2019 18:23:12</publishTime>
+    </File>
+    <File Include="Css/addition.css">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Css/bower_components/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.eot">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Css/bower_components/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.svg">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Css/bower_components/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Css/bower_components/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.woff">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Css/bower_components/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.woff2">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Css/bower_components/font-awesome/fonts/fontawesome-webfont.eot">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Css/bower_components/font-awesome/fonts/fontawesome-webfont.svg">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Css/bower_components/font-awesome/fonts/fontawesome-webfont.ttf">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Css/bower_components/font-awesome/fonts/fontawesome-webfont.woff">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Css/bower_components/font-awesome/fonts/fontawesome-webfont.woff2">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Css/bower_components/font-awesome/fonts/FontAwesome.otf">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Css/Difficulty.css">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Css/font-awesome.min.css">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Css/niteflight.min.css">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Css/vendor.min.css">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>07/19/2019 16:15:11</publishTime>
+    </File>
+    <File Include="Fonts/bitter-v7-latin-700.eot">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/bitter-v7-latin-700.svg">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/bitter-v7-latin-700.ttf">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/bitter-v7-latin-700.woff">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/bitter-v7-latin-700.woff2">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/bitter-v7-latin-italic.eot">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/bitter-v7-latin-italic.svg">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/bitter-v7-latin-italic.ttf">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/bitter-v7-latin-italic.woff">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/bitter-v7-latin-italic.woff2">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/bitter-v7-latin-regular.eot">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/bitter-v7-latin-regular.svg">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/bitter-v7-latin-regular.ttf">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/bitter-v7-latin-regular.woff">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/bitter-v7-latin-regular.woff2">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/fontawesome-webfont.eot">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/fontawesome-webfont.svg">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/fontawesome-webfont.ttf">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/fontawesome-webfont.woff">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/fontawesome-webfont.woff2">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/FontAwesome.otf">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/glyphicons-halflings-regular.eot">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/glyphicons-halflings-regular.svg">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/glyphicons-halflings-regular.woff">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-300.eot">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-300.svg">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-300.ttf">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-300.woff">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-300.woff2">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-300italic.eot">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-300italic.svg">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-300italic.ttf">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-300italic.woff">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-300italic.woff2">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-600.eot">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-600.svg">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-600.ttf">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-600.woff">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-600.woff2">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-600italic.eot">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-600italic.svg">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-600italic.ttf">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-600italic.woff">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-600italic.woff2">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-700.eot">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-700.svg">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-700.ttf">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-700.woff">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-700.woff2">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-700italic.eot">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-700italic.svg">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-700italic.ttf">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-700italic.woff">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-700italic.woff2">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-800.eot">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-800.svg">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-800.ttf">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-800.woff">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-800.woff2">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-italic.eot">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-italic.svg">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-italic.ttf">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-italic.woff">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-italic.woff2">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-regular.eot">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-regular.svg">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-regular.ttf">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-regular.woff">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Fonts/open-sans-v13-latin-regular.woff2">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Images/carousel-climbing.jpg">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Images/carousel-cycling.jpg">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Images/carousel-hiking.jpg">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Images/carousel-skiing.jpg">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Images/climbing-events.jpg">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Images/Climbing-the-Face-of-Half-Dome.jpg">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Images/cycling-events.jpg">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Images/Cycling-from-Bangkok-to-Chiang-Mai.jpg">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Images/hiking-events.jpg">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Images/Hiking-the-Italian-Alps.jpg">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Images/Logo_400x60.png">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Images/Rock-Climbing-in-the-Czech-Republic.jpg">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Images/skiing-events.jpg">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="Images/Skiing-the-Himalayas.jpg">
+      <publishTime>07/19/2019 19:08:44</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>07/22/2019 16:13:59</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>07/22/2019 16:13:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>07/22/2019 16:13:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>07/22/2019 16:13:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>07/22/2019 16:13:58</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>07/22/2019 16:13:58</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>07/22/2019 16:13:59</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>07/22/2019 16:13:59</publishTime>
+    </File>
+    <File Include="Scripts/Navigation.js">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Scripts/Sitecore.Foundation.Theming.min.js">
+      <publishTime>07/19/2019 19:08:43</publishTime>
+    </File>
+    <File Include="Views/Breadcrumb/Index.cshtml">
+      <publishTime>07/24/2019 16:11:25</publishTime>
+    </File>
+    <File Include="Views/EventIntro/Index.cshtml">
+      <publishTime>07/22/2019 16:19:56</publishTime>
+    </File>
+    <File Include="Views/Navigation/Index.cshtml">
+      <publishTime>07/25/2019 19:32:25</publishTime>
+    </File>
+    <File Include="Views/RelatedEvents/Index.cshtml">
+      <publishTime>07/25/2019 19:37:47</publishTime>
+    </File>
+    <File Include="Views/TAC/Events/FeaturedEvent.cshtml">
+      <publishTime>07/24/2019 14:30:22</publishTime>
+    </File>
+    <File Include="Views/TAC/Events/FeatureRow.cshtml">
+      <publishTime>07/23/2019 17:57:54</publishTime>
+    </File>
+    <File Include="Views/TAC/Events/HomeContent.cshtml">
+      <publishTime>07/22/2019 20:01:59</publishTime>
+    </File>
+    <File Include="Views/TAC/Events/Layouts/Events.cshtml">
+      <publishTime>07/22/2019 17:57:03</publishTime>
+    </File>
+    <File Include="Views/TAC/Events/One-Column.cshtml">
+      <publishTime>07/22/2019 18:03:03</publishTime>
+    </File>
+    <File Include="Views/TAC/Events/PageContent.cshtml">
+      <publishTime>07/22/2019 18:23:30</publishTime>
+    </File>
+    <File Include="Views/TAC/Events/SideContent.cshtml">
+      <publishTime>07/25/2019 18:36:59</publishTime>
+    </File>
+    <File Include="Views/TAC/Events/Two-Column.cshtml">
+      <publishTime>07/25/2019 18:47:52</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>07/19/2019 15:21:54</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
